@@ -19,5 +19,5 @@ remainder=num1%num2
 end
 
 def square_root(num)
-sqrt=num/9
+square root= Math.sqrt(num)
 end
